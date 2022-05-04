@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'Bom dia!',
+	greetingMorning: 'Bom dia,',
 	greetingAfternoon: 'Boa tarde,',
 	greetingEvening: 'Boa noite,',
-	greetingNight: 'É hora de dormir!',
+	greetingNight: 'É hora de dormir... ',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'

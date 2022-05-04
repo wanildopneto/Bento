@@ -171,15 +171,17 @@ body {
   color: var(--fg);
 }
 
-#month,
-#day {
+#day,
+#separator,
+#month {
   font-size: var(--fg-date);
   font-weight: bold;
   color: var(--fg);
 }
 
-#day {
+#separator {
   margin-left: 1.5rem;
+  margin-right: 1.5rem;
 }
 
 #greetings {
